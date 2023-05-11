@@ -211,6 +211,9 @@ img {
 .text-exempel-first {
   width: calc((100% - 48px) / 4);
 }
+.fon {
+  background-color: #f4f4fd;
+}
 .feature {
   margin-bottom: 8px;
   font-weight: 500;
