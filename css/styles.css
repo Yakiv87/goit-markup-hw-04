@@ -152,7 +152,8 @@ img {
   margin: auto;
   width: 1440px;
   height: 600px;*/
-  background-image: url(../images/bg.jpg);
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7)) url(../images/bg.jpg);
+  background-size: cover;
 }
 .hero-text {
   margin-bottom: 48px;
