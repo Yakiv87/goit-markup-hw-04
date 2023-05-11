@@ -152,6 +152,7 @@ img {
   margin: auto;
   width: 1440px;
   height: 600px;*/
+  background-image: url(../images/bg.jpg);
 }
 .hero-text {
   margin-bottom: 48px;
