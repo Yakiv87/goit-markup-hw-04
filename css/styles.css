@@ -280,6 +280,11 @@ img {
 }
 .social-list {
   display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 24px;
 }
 .ourteam {
   font-weight: 700;
