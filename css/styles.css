@@ -278,6 +278,9 @@ img {
   display: flex;
   justify-content: center;
 }
+.social-list {
+  display: flex;
+}
 .ourteam {
   font-weight: 700;
   font-size: 36px;
