@@ -451,6 +451,9 @@ img {
   gap: 24px;
   margin-top: 8px;
 }
+.footer-social-list-icon {
+  fill: #8e8f99;
+}
 /* .footer-social-list-link:hover,
 .footer-social-list-link:focus {
   fill: #31d0aa;
