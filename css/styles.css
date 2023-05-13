@@ -486,6 +486,11 @@ img {
   letter-spacing: 0.02em;
   color: #ffffff;
   padding-bottom: 28px;
+  margin-bottom: 16px;
+}
+.footer-social-list-item {
+  width: 40px;
+  height: 40px;
 }
 .footer-social-list {
   display: flex;
