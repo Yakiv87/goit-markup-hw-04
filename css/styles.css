@@ -367,6 +367,8 @@ img {
   gap: 24px;
   justify-content: center;
   align-items: center;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
 }
 
 /*footer*/
