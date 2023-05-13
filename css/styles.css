@@ -4,6 +4,7 @@
   --secondary-background-color: #2e2f42;
   --background-color-btn: #f4f4fd;
   --second-color-btn: #4d5ae5;
+  --link-icon-color: #8e8f99;
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -384,22 +385,25 @@ img {
   align-items: center;
 }
 .company-list-link {
+  display: flex;
   width: 100%;
   height: 100%;
   background-color: var(--second-color-btn);
-  border-radius: 50%;
+  border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 1px solid #8e8f99;
 }
 .company-list-icon {
-  fill: var(--background-color-btn);
+  fill: currentColor;
 }
 .company-logo {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   margin-bottom: 120px;
   width: calc((100% - 120px) / 6);
+  height: 88px;
 }
 .company-logo:hover,
 .company-logo:focus {
@@ -408,8 +412,13 @@ img {
 }
 .company-list-link:hover,
 .company-list-link:focus {
-  background-color: #404bbf;
+  border-color: #404bbf;
 }
+.company-list-link:hover,
+.company-list-link:focus {
+  color: #404bbf;
+}
+
 /*footer*/
 
 .footer {
