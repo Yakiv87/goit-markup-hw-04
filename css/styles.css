@@ -454,10 +454,10 @@ img {
 .footer-social-list-icon {
   fill: #404bbf;
 }
-/* .footer-social-list-link:hover,
-.footer-social-list-link:focus {
+.footer-social-list-icon:hover,
+.footer-social-list-icon:focus {
   fill: #31d0aa;
-} */
+}
 
 /* Portfolio */
 .portfolio {
