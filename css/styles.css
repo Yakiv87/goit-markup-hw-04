@@ -390,8 +390,10 @@ img {
 }
 .footer-container {
   display: inline-block;
-  margin-left: 156px;
-  margin-right: 120px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .text-footer {
   font-family: 'Roboto';
