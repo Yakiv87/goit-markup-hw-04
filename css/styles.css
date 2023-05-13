@@ -353,9 +353,7 @@ img {
   padding: 100px 0;
   background: #2e2f42;
 }
-.footer-container {
-  display: flex;
-}
+
 .text-footer {
   font-family: 'Roboto';
   font-style: normal;
