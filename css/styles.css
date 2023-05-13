@@ -378,6 +378,10 @@ img {
   border: 1px solid #404bbf;
   border-radius: 4px;
 }
+.company-list-link:hover,
+.company-list-link:focus {
+  fill: #404bbf;
+}
 /*footer*/
 
 .footer {
