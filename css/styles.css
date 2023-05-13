@@ -392,6 +392,7 @@ img {
   align-items: center;
   justify-content: center;
   border: 1px solid #8e8f99;
+  color: var(--link-icon-color);
 }
 .company-list-icon {
   fill: currentColor;
