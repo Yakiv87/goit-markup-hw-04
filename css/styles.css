@@ -295,8 +295,8 @@ img {
 .social-list-icon {
   fill: #8e8f99;
 }
-.social-list-item:hover,
-.social-list-item:focus {
+.social-list-icon:hover,
+.social-list-icon:focus {
   fill: #404bbf;
 }
 .ourteam {
