@@ -357,6 +357,9 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.company {
+  display: flex;
+}
 
 /*footer*/
 
