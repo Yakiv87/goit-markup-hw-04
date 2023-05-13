@@ -385,6 +385,10 @@ img {
   text-transform: uppercase;
   color: #f4f4fd;
 }
+.footer-social {
+  display: flex;
+}
+
 /* Portfolio */
 .portfolio {
   padding: 96px 0 120px;
