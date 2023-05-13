@@ -365,6 +365,8 @@ img {
   align-items: flex-start;
   padding: 0px;
   gap: 24px;
+  justify-content: center;
+  align-items: center;
 }
 
 /*footer*/
