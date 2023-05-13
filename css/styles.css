@@ -390,8 +390,8 @@ img {
 }
 .footer-container {
   display: inline-block;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 120px;
+  margin-left: 156px;
   padding-left: 15px;
   padding-right: 15px;
 }
