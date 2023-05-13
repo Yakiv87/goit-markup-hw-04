@@ -46,6 +46,8 @@ img {
 }
 .page-header {
   border-bottom: 1px solid #e7e9fc;
+  box-shadow: 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .container {
@@ -149,10 +151,12 @@ img {
   padding-top: 188px;
   padding-bottom: 188px;
   margin: auto;
-  width: 1440px;
+  max-width: 1440px;
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url(../images/bg.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .hero-text {
   margin-bottom: 48px;
