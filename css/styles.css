@@ -292,14 +292,11 @@ img {
   gap: 24px;
   margin-top: 8px;
 }
-/* .social-list-link { 
-  width: 40px;
-  height: 40px;
-}
-/*.social-list-link:hover, 
-.social-list-link:focus {
+
+.social-list-item:hover,
+.social-list-item:focus {
   fill: #404bbf;
-}*/
+}
 .ourteam {
   font-weight: 700;
   font-size: 36px;
@@ -311,11 +308,6 @@ img {
   margin-bottom: 72px;
 }
 /* employee */
-
-/* .employee-fon-first { 
-   width: calc((100% - 72px) / 4); 
-  border-radius: 0px 0px 4px 4px;
-}*/
 
 .employee {
   /* padding-top: 32px; */
@@ -351,7 +343,6 @@ img {
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
     0px 2px 1px rgba(46, 47, 66, 0.08);
-  border-radius: 0px 0px 4px 4px;
 }
 /* section 4 */
 
