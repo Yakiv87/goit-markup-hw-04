@@ -426,6 +426,10 @@ img {
   display: flex;
   align-items: baseline;
 }
+.footer-second {
+  display: flex;
+  align-items: baseline;
+}
 .footer-container {
   display: flex;
   align-items: baseline;
