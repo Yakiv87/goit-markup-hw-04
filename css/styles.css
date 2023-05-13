@@ -429,6 +429,7 @@ img {
 }
 .footer-social {
   display: inline-block;
+  align-items: baseline;
   /* flex-direction: row; 
   justify-content: center;
   align-items: center;
