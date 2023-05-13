@@ -524,7 +524,8 @@ img {
   padding: 96px 0 120px;
 }
 
-.btn-filter {
+.btn-filter,
+.btn-filter-first {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
