@@ -359,6 +359,10 @@ img {
 }
 /* section 4 Customers */
 
+.custom {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 .customers {
   font-weight: 700;
   font-size: 36px;
