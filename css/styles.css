@@ -295,7 +295,7 @@ img {
 
 .social-list-item:hover,
 .social-list-item:focus {
-  fill: #404bbf;
+  background-color: #404bbf;
 }
 .ourteam {
   font-weight: 700;
