@@ -403,6 +403,7 @@ img {
   color: #ffffff;
 }
 .footer-social-list {
+  display: flex;
   justify-content: center;
   align-items: center;
   padding: 0px;
