@@ -424,13 +424,13 @@ img {
 .footer {
   padding: 100px 0;
   background: #2e2f42;
+  display: flex;
+  align-items: baseline;
 }
 .footer-container {
-  display: inline-block;
+  display: flex;
+  align-items: baseline;
   margin-right: 120px;
-  margin-left: 156px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .text-footer {
   font-family: 'Roboto';
@@ -486,16 +486,27 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 40px;
+  height: 40px;
   padding: 0px;
   gap: 24px;
   margin-top: 8px;
 }
-.footer-social-list-icon {
-  fill: #404bbf;
+.footer-social-list-link {
+  width: 100%;
+  height: 100%;
+  background-color: var(--second-color-btn);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.footer-social-list-icon:hover,
-.footer-social-list-icon:focus {
-  fill: #31d0aa;
+.footer-social-list-icon {
+  fill: var(--background-color-btn);
+}
+.footer-social-list-link:hover,
+.footer-social-list-link:focus {
+  background-color: #31d0aa;
 }
 
 /* Portfolio */
