@@ -372,7 +372,6 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
-  margin-top: 120px;
   padding: 32px 0;
 }
 .company {
@@ -400,6 +399,7 @@ img {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   margin-bottom: 120px;
+  width: calc((100% - 120px) / 6);
 }
 .company-logo:hover,
 .company-logo:focus {
