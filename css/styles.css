@@ -367,12 +367,11 @@ img {
   gap: 24px;
   justify-content: center;
   align-items: center;
-  /* border: 1px solid #8e8f99; 
-  border-radius: 4px;*/
 }
 .company-logo {
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  margin-bottom: 120px;
 }
 /*footer*/
 
