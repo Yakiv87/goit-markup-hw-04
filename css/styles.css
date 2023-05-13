@@ -449,10 +449,10 @@ img {
   gap: 24px;
   margin-top: 8px;
 }
-.footer-social-list-link:hover,
+/* .footer-social-list-link:hover,
 .footer-social-list-link:focus {
   fill: #31d0aa;
-}
+} */
 
 /* Portfolio */
 .portfolio {
@@ -497,6 +497,9 @@ img {
   column-gap: 24px;
   row-gap: 48px;
   flex-wrap: wrap;
+  border: 1px solid #f4f4fd;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
