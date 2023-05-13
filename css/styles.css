@@ -422,7 +422,7 @@ img {
   color: #f4f4fd;
 }
 .footer-social {
-  display: flex;
+  display: inline-block;
   /* flex-direction: row; 
   justify-content: center;
   align-items: center;
