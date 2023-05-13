@@ -56,7 +56,6 @@ img {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
-  align-items: center;
 }
 .visually-hidden {
   position: absolute;
@@ -216,7 +215,13 @@ img {
   width: calc((100% - 48px) / 4);
 }
 .fon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #f4f4fd;
+  height: 112px;
+  border-radius: 4px;
+  margin-bottom: 8px;
 }
 .icon {
   width: 64px;
