@@ -455,6 +455,9 @@ img {
   background: #2e2f42;
   display: flex;
   align-items: baseline;
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .footer-container {
   display: inline-block;
