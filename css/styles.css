@@ -455,14 +455,14 @@ img {
   background: #2e2f42;
   display: flex;
   align-items: baseline;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   margin-right: 120px;
 }
 .footer-container {
   display: inline-block;
   align-items: baseline;
   margin-right: 120px;
-  margin-left: 156px;
+  /* margin-left: 156px; */
 }
 .text-footer {
   font-family: 'Roboto';
