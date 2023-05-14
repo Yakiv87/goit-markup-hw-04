@@ -456,8 +456,7 @@ img {
   display: flex;
   align-items: baseline;
   max-width: 1440px;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 120px;
 }
 .footer-container {
   display: inline-block;
@@ -513,7 +512,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 .footer-social-list-item {
   width: 40px;
