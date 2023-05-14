@@ -455,7 +455,7 @@ img {
   align-items: baseline;
 }
 .footer-container {
-  display: flex;
+  display: inline-block;
   align-items: baseline;
   margin-right: 120px;
 }
