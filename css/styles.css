@@ -457,7 +457,7 @@ img {
   display: inline-block;
   align-items: baseline;
   margin-right: 120px;
-  margin-left: 156px;
+  /* margin-left: 156px; */
 }
 .text-footer {
   font-family: 'Roboto';
