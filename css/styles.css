@@ -443,21 +443,15 @@ img {
 }
 
 /*footer*/
-
-/* .footer { 
-  padding: 100px 0;
-  background: #2e2f42;
-  display: flex;
-  align-items: baseline;
-}*/
 .footer-second {
   padding: 100px 0;
   background: #2e2f42;
   display: flex;
   align-items: baseline;
-  max-width: 1440px;
+
+  /* max-width: 1440px; 
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;*/
 }
 .footer-container {
   display: inline-block;
