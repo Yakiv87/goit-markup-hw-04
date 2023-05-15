@@ -206,7 +206,6 @@ img {
 .exempel {
   padding-top: 120px;
   padding-bottom: 120px;
-  display: flex;
 }
 
 .text-exempel {
@@ -224,14 +223,14 @@ img {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-.icon {
+/* .icon { 
   width: 64px;
   height: 64px;
   margin: auto;
   display: flex;
   justify-items: center;
   align-items: center;
-}
+}*/
 .feature {
   margin-bottom: 8px;
   font-weight: 500;
@@ -337,7 +336,6 @@ img {
 }
 
 .container-team {
-  padding: 32px 0;
   margin-right: auto;
   margin-left: auto;
 }
