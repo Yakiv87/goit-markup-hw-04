@@ -578,6 +578,7 @@ img {
 .btn-filter:hover,
 .btn-filter:focus {
   background: #404bbf;
+  color: #ffffff;
 }
 
 .card-first {
